@@ -1,0 +1,5 @@
+{
+  "name": "PokerStudy Pro - Video Analyzer",
+  "description": "A high-performance poker study interface to organize training videos by spots, add timestamped hand notes, and manage strategic insights with AI assistance.",
+  "requestFramePermissions": []
+}
